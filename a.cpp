@@ -5,7 +5,9 @@ class student
 public:
 void display()
 {
-cout<<"UIET";
+cout<<"UIET\n";
+cout<<"PANJAB UNIVERSITY";
+cout<<"sector 25";
 }
 }s;
 main()
